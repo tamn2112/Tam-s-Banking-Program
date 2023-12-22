@@ -5,9 +5,21 @@ This is a basic banking program written in Python. It provides simple functional
 
 
 ## Features
-1. User Registration: Users can register by providing a unique username and a secure password. Passwords are hashed for security.
-2. User Profile Creation: After registration, users can create a profile by entering their full name, age, and gender.
-3. Banking Operations: Users can perform basic banking operations, including deposit and withdrawal.
+1. User Registration:
+
+Enter a unique username and a secure password when prompted.
+Confirm your password.
+
+2. User Profile Creation:
+
+Provide your full name, age, and gender as requested.
+Initial Deposit:
+Users are prompted to make an initial deposit to start using the banking features.
+
+3. Banking Operations:
+
+Users can choose to deposit, withdraw, or exit the program.
+Follow the on-screen instructions to perform banking operations.
    
 
 ## Usage
